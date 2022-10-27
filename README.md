@@ -59,8 +59,8 @@ ier ejercicio
 |inicio:2                                              |
 |limite:10                                             |
 |incremento:2                                          |
-|el numero actual es : 5                               |
-|                                                      |
+|el numero actual es : 4                               |
+| - la suma de los numeros es de 8                     |                              
 |                                                      |
 |                                                      |
 |                                                      |
@@ -145,3 +145,4 @@ ier ejercicio
 +------------------------------------------------------------------+
 ~~~
 ##etapa3 
+1[] ()
