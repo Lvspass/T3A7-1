@@ -145,4 +145,4 @@ ier ejercicio
 +------------------------------------------------------------------+
 ~~~
 ##etapa3 
-- ! [] (https://github.com/MelgarejoTorresIoannesIxca/T3A7/blob/main/T3A7.jpg)
+- ![](https://github.com/MelgarejoTorresIoannesIxca/T3A7/blob/main/T3A7.jpg)
