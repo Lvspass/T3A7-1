@@ -144,7 +144,7 @@ ier ejercicio
 |                                                                  |
 +------------------------------------------------------------------+
 ~~~
-##etapa 3
+## etapa 3
 ![](https://github.com/MelgarejoTorresIoannesIxca/T3A7/blob/main/T3A7.jpg)
 ## etapa4:
 https://github.com/MelgarejoTorresIoannesIxca/T3A7/blob/main/T3A7.zip
