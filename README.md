@@ -108,7 +108,7 @@ ier ejercicio
 |    -favor de ingresar su salario                     |                              
 |     100                                              |
 | -el  promedio de el salario                          |
-|de los trabajores es de 100                          |                          
+|de los trabajores es de 100                           |                          
 |                                                      |
 |                                                      |
 |                                                      |
