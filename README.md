@@ -145,4 +145,4 @@ ier ejercicio
 +------------------------------------------------------------------+
 ~~~
 ##etapa3 
-1[] ()
+1[] (https://github.com/MelgarejoTorresIoannesIxca/T3A7/blob/main/T3A7.jpg)
