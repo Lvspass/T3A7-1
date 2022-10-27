@@ -7,16 +7,16 @@
  - 4.Dadas las edades y alturas de 5 alumnos, mostrar la edad y la estatura media, la cantidad de alumnos mayores de 18 años, y la cantidad de alumnos que miden más de 1.75.
 ## etapa 2:
 entrada:
- 1mer ejercicio:
+ - 1mer ejercicio:
 - inicio del periodo
 . el limite del periodo
 - la continuidad del periodo
-2do ejercicio:
+- 2do ejercicio:
 - solicitar 10 numeros decimales
-3er ejercicio :
+- 3er ejercicio :
 -solicitar el nombre de 5 trabajadores
 - solicitar el salario de esos 5 trabajadores
-4to ejercicio:
+- 4to ejercicio:
 - solicitar la edad de 4 personas
 - solicitar su altura de esas 4 personas
 
